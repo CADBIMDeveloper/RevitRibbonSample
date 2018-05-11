@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Application RevitAddin1</Name>
+    <Assembly>RevitAddin1.dll</Assembly>
+    <FullClassName>RevitAddin1.App</FullClassName>
+    <ClientId>7ca361af-a8af-4ed6-8984-5a6347690df4</ClientId>
+    <VendorId>ru.alexander.ignatovich</VendorId>
+  </AddIn>
+</RevitAddIns>
